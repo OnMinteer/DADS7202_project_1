@@ -3,8 +3,11 @@
 ## Project Hypothesis
 We believe that between traditional ML and MLP, MLP will not going to have a better result than traditional ML
 
+## Highlights
+
+
 ## Introduction
-This homework is to predict bankruptcy by using binary classification  
+This project aims to predict bankruptcy by using binary classification  
 
 ## Data
 1. Data Source:\
